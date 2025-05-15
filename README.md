@@ -27,6 +27,9 @@ Transform your resume into a **professional PowerPoint presentation** with the h
 
 ---
 
+
+---
+
 ## 🧠 How It Works
 
 1. **User Input**  
@@ -75,4 +78,3 @@ touch .env
 
 # Run the app
 streamlit run app.py
-
